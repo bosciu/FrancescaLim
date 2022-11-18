@@ -1,0 +1,24 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+
+.nomeprofilo {
+  text-align: center;
+}
+
+.lineacolorata {
+  height: 1px;
+  background-color: yellow;
+  border: none;
+}
+
+h4 {
+  color: yellow;
+}
+
+h5 {
+  font-family: cursive;
+}

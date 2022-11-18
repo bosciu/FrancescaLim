@@ -1,0 +1,62 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(https://img.freepik.com/free-photo/beautiful-decoration-cute-little-dried-colorful-flowers-wallpaper_343596-3240.jpg?w=2000);
+  background-size: cover;
+  margin-top: 10px;
+}
+
+.contenitore {
+  margin: auto;
+  width: 800px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.scrittalogo {
+  font-size: 20px;
+  color: white;
+  display: inline;
+}
+
+.lineasotto {
+  height: 1px;
+  background-color: white;
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.scrittahave {
+  font-size: 20px;
+  color: white;
+}
+
+#cerchio{
+  background-color: orange;
+  border-radius: 50%;
+}
+
+.mail{
+  background-color: pink;
+}
+
+.parte1{
+  display: inline-block;
+  width: 30%;
+}
+
+.parte2{
+  display: inline-block;
+  width: 66%;
+}
+
+.footer{
+  text-align: center;
+}
